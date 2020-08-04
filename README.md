@@ -1,3 +1,4 @@
 # SwiftUIImagePickerController
 
-A description of this package.
+Wrapped UIImagePickerController for SwiftUI
+
