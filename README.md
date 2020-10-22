@@ -2,8 +2,9 @@
 
 Wrapped UIImagePickerController for SwiftUI
 
-example code
+## example code
 
+~~~
 //
 //  ContentView.swift
 //
@@ -46,4 +47,5 @@ struct ContentView_Previews: PreviewProvider {
     ContentView()
   }
 }
+~~~
 
